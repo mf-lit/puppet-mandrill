@@ -36,7 +36,7 @@ class mandrill::config::postfix (
 
   exec { 'mydestination':
     path    => [ '/bin/', '/sbin/' , '/usr/bin/', '/usr/sbin/' ],
-    command => "postconf -e 'mydestination = ${mail_domain}, localhost'"
+    command => "postconf -e 'mydestination = localhost'"
   } ->
 
   exec { 'relayhost':
