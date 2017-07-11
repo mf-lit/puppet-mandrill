@@ -1,0 +1,22 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "README.md": "eb2a44d8d2a2fbfeea64ec1b8c8344e7",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/config/exim_debian.pp": "b8a0e427ffd85fa8273bed55cb393e10",
+  "manifests/config/postfix.pp": "0935e4217536859e5aa6b53887b7545c",
+  "manifests/config/sendmail_debian.pp": "9016741e2ff67c12da9cc210ba4bea01",
+  "manifests/config/sendmail_redhat.pp": "95559201c6d05d6890a6dc0eea96ef2f",
+  "manifests/config.pp": "0353c52259e41fa3a25aaf58cc446dab",
+  "manifests/init.pp": "b44a8387f704c26fa4d5464216bee90e",
+  "manifests/params.pp": "6ad4b14cf5ec1213493f74bbe3ec9915",
+  "metadata.json": "54d93d2ed0f0d9e8c7bae4a685a666e5",
+  "spec/classes/init_spec.rb": "b4a0fda6a494fda9b37cc0202a2e74f3",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/exim/passwd.client.erb": "5c594a3c4f4661a79ace6d153de47edb",
+  "templates/exim/update-exim4.conf.conf.erb": "2072f91b7b0af979dd4c758f9f287efe",
+  "templates/postfix/sasl_passwd.erb": "19b3eef4bf41f232415c0bb1428491be",
+  "templates/sendmail/authinfo.erb": "60370652b4f38bc9a1fd050e70d4d4bc",
+  "templates/sendmail/sendmail_debian.mc.erb": "0ac64ef65432ed80bd173ca1425201ca",
+  "templates/sendmail/sendmail_redhat.mc.erb": "5eab3a4b7e932bd3ec8be00b2d86d149",
+  "tests/init.pp": "7015cf270a679f97bcf2a8cdbf551e4b"
+}
