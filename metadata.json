@@ -1,12 +1,12 @@
 {
-  "name": "dmcnicks-mandrill",
-  "version": "1.0.3",
-  "author": "dmcnicks",
+  "name": "puppet-mandrill",
+  "version": "1.0.4",
+  "author": "mf-lit",
   "summary": "Configures mail service to use Mandrill as a smarthost.",
   "license": "Apache-2.0",
-  "source": "https://github.com/dmcnicks/dmcnicks-mandrill.git",
-  "project_page": "https://github.com/dmcnicks/dmcnicks-mandrill",
-  "issues_url": "https://github.com/dmcnicks/dmcnicks-mandrill/issues",
+  "source": "https://github.com/mf-lit/puppet-mandrill.git",
+  "project_page": "https://github.com/mf-lit/puppet-mandrill",
+  "issues_url": "https://github.com/mf-lit/puppet-mandrill/issues",
   "operatingsystem_support": [
     {
       "operatingsystem": "Debian",
